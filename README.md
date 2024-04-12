@@ -4,7 +4,8 @@ Hello, I'm a 4th year computer engineering student that has spent most of his ti
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ceylan-87b69b1b0/) 
-![Website](https://img.shields.io/badge/Website-https://mustafaceylan.dev-brightgreen?style=for-the-badge&logo=website&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23.svg?&style=for-the-badge&logoColor=white)](https://your-portfolio-website.com/)
+
 
 
 
