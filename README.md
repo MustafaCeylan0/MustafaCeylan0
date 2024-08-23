@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I'm a 4th year software engineering student that has spent most of his time building projects. I have had experience on developing websites, mobile applications and games. I am focused on improving my skills and learning new technologies everyday. [Visit my website](https://mustafaceylan.dev/).
+Hello, I am a  software engineer that has spent most of his time building projects. I have had experience on developing websites, mobile applications and games. I am focused on improving my skills and learning new technologies everyday. I currently work as a fullstack developer at Ferre Femaş. I use ASP.NET .NET Web Forms Razor Pages and DevExpress in my daily work flow. My english level is C1, with an IELTS score of 8 overall.   
+
+[Visit my website](https://mustafaceylan.dev/).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ceylan-87b69b1b0/) 
