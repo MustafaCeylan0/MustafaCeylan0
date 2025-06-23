@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello, I am a  software engineer that has spent most of his time building projects. I have had experience on developing websites, mobile applications and games. I am focused on improving my skills and learning new technologies everyday. I currently work as a fullstack developer at Ferre Femaş. I use ASP.NET .NET Web Forms Razor Pages and DevExpress in my daily work flow. My english level is C1, with an IELTS score of 8 overall.   
+Hello! I'm Mustafa Ceylan, a software engineer who builds projects. I have experience in web development, mobile applications, and game development. I'm always working to improve my skills and learn new technologies.
+
+I finished my Bachelor of Science in Computer Engineering at Abdullah Gül University. Now, I'm pursuing a Master of Science in Computer Science at the Karlsruhe Institute of Technology (KIT). My GRE scores are 170/170 in Quantitative Reasoning, 156/170 in Verbal Reasoning, and 3.5/6.0 in Analytical Writing.
+
+I worked as a full-stack developer at Ferre Femaş. There, I used ASP.NET, .NET Web Forms, Razor Pages, and DevExpress every day. My English level is C1, and I have an IELTS overall score of 8.0.   
 
 [Visit my website](https://mustafaceylan.dev/).
 
